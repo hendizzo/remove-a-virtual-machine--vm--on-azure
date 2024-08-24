@@ -5,7 +5,7 @@
 
 .DESCRIPTION
     This runbook removes a VM on Azure
-    The Connect-Azure runbook needs to be imported and published before this runbook can be sucessfully run.
+    The Connect-Azure runbook needs to be imported and published before this runbook can be sucessfully run. Steven Henderson
        
 .PARAMETER AzureConnectionName
     Name of the Azure connection asset that was created in the Automation service.
